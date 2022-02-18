@@ -1,3 +1,8 @@
+# Basic Web3 Wave Portal App 
+
+This app allows a user to connect with a metamask wallet and post a message to the page using the Rinkeby testnet.
+
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
